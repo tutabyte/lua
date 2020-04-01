@@ -1,7 +1,6 @@
 local scripts = {
     ['iy'] = 'https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source', -- Infinite Yield FE - Edge
     ['dex4'] = 'https://raw.githubusercontent.com/tutabyte/lua/shared/storage/collection/dex-400-light-moon-assetloader.lua',
-    ['dex4'] = 'https://raw.githubusercontent.com/tutabyte/lua/shared/storage/collection/dex-400-light-moon-assetloader.lua',
     ['dexsyn'] = 'https://raw.githubusercontent.com/tutabyte/lua/shared/storage/collection/dex-300-dark-synapse-assetloader.lua',
     ['dexsen'] = 'https://raw.githubusercontent.com/tutabyte/lua/shared/storage/collection/dex-200-dark-sentinel-standalone.lua',
     ['dexsir'] = 'https://arilis.dev/uploader/files/e810qh.lua',
