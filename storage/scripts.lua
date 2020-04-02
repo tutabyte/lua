@@ -8,6 +8,7 @@ local scripts = {
     ['filtershark'] = 'https://pastebin.com/raw/pYKcSQEp', -- FilterShark LuaU Mod - Lucyxero, GreenMs02
     ['hydroxide'] = 'https://raw.githubusercontent.com/Upbolt/Hydroxide/master/init.lua', -- Hydroxide Rebirth
     ['hydroxide-old'] = 'https://raw.githubusercontent.com/noahcoolboy/Hydroxide/master/main.lua', -- Hydroxide (OLD)
+    ['scriptview'] = 'https://pastebin.com/raw/dva01xpE', -- Script View - Litten
     ['unverifier'] = 'https://pastebin.com/raw/wi6e4mjA', -- Unverifier Universal - Unverified
     ['unnamedesp'] = 'https://ic3w0lf.xyz/rblx/protoesp.lua', -- Unnamed ESP - ic3w0lf
     ['pfmaster'] = 'https://pastebin.com/raw/URSTqphn', -- PFMaster - FretV3rm (@v3rmillion)
