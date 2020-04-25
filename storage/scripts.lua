@@ -11,6 +11,7 @@ local scripts = {
     ['scriptview'] = 'https://pastebin.com/raw/dva01xpE', -- Script View - Litten
     ['unverifier'] = 'https://pastebin.com/raw/wi6e4mjA', -- Unverifier Universal - Unverified
     ['unnamedesp'] = 'https://ic3w0lf.xyz/rblx/protoesp.lua', -- Unnamed ESP - ic3w0lf
+    ['aimhot'] = 'https://raw.githubusercontent.com/Herrtt/AimHot-v8/master/Main.lua', -- AimHot - Herrtt (@v3rmillion)
     ['pfmaster'] = 'https://pastebin.com/raw/URSTqphn', -- PFMaster - FretV3rm (@v3rmillion)
     ['owlhub'] = 'https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt', -- OwlHub - GoogleChrome, CriShoux
     ['potatohub'] = 'https://www.potato-hub.com/PotatoHub.lua', -- PotatoHub - M1S0, sexy potato
